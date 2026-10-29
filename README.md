@@ -9,9 +9,9 @@ Tenho 18 anos, estudo Engenharia de Software na UNISATC e estou concluindo o Té
 
 Gosto de acompanhar um produto do começo ao fim: entender o problema, levantar os requisitos, desenhar as telas e transformar tudo isso em um aplicativo que funcione de verdade.
 
-- 🔭 Atualmente: [Finalizando meu TCC, um sistema de gestão para restaurantes]
-- 🌱 Aprendendo: [IA, CLOUD, JAVASCRIPT, PYTHON, JAVA, DADOS]
-- 🎯 Em busca do meu primeiro estágio na área de tecnologia
+- Atualmente: [Finalizando meu TCC, um sistema de gestão para restaurantes]
+- Aprendendo: [IA, CLOUD, JAVASCRIPT, PYTHON, JAVA, DADOS]
+- Em busca do meu primeiro estágio na área de tecnologia
 
 ### Interesses
 
