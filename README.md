@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Kaiki 👋</h1>
+<h1 align="center">Olá, eu sou o Kaiki </h1>
 <p align="center">Estudante de Engenharia de Software · Técnico em Informática · Criciúma – SC</p>
 
 ---
