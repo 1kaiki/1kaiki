@@ -5,7 +5,7 @@
 
 ### Sobre mim
 
-Tenho 18 anos, estudo Engenharia de Software na UNISATC e estou concluindo o Técnico em Informática no Colégio SATC.
+Estudo Engenharia de Software na UNISATC e estou concluindo o Técnico em Informática no Colégio SATC.
 
 Gosto de acompanhar um produto do começo ao fim: entender o problema, levantar os requisitos, desenhar as telas e transformar tudo isso em um aplicativo que funcione de verdade.
 
