@@ -9,8 +9,8 @@ Tenho 18 anos, estudo Engenharia de Software na UNISATC e estou concluindo o Té
 
 Gosto de acompanhar um produto do começo ao fim: entender o problema, levantar os requisitos, desenhar as telas e transformar tudo isso em um aplicativo que funcione de verdade.
 
-- Atualmente: [Finalizando meu TCC, um sistema de gestão para restaurantes]
-- Aprendendo: [IA, CLOUD, JAVASCRIPT, PYTHON, JAVA, DADOS]
+- Atualmente: Finalizando meu TCC, um sistema de gestão para restaurantes
+- Aprendendo: IA, Cloud, JavaScript, Python, Java e Dados
 - Em busca do meu primeiro estágio na área de tecnologia
 
 ### Interesses
@@ -37,7 +37,7 @@ Gosto de acompanhar um produto do começo ao fim: entender o problema, levantar 
 
 **Sistema de gestão para restaurantes (TCC)**
 Aplicativo em uso por um cliente real, com módulos para gerente, garçom e atendente, fluxo de pedidos, impressão de comandas e relatórios.
-`React Native` · `Expo` · `Firebase` · [Ver projeto](https://github.com/[link])
+`React Native` · `Expo` · `Firebase` · [Ver projeto](https://github.com/1kaiki/Sistema-Gestao-Restaurante)
 
 ### Contato
 
