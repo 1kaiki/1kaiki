@@ -36,7 +36,7 @@ Gosto de acompanhar um produto do começo ao fim: entender o problema, levantar 
 ### Projeto em destaque
 
 **Sistema de gestão para restaurantes (TCC)**
-Aplicativo em uso por um cliente real, com módulos para gerente, garçom e atendente, fluxo de pedidos, impressão de comandas e relatórios.
+Aplicativo com áreas para garçom, caixa, gerente e o tablet do cliente na mesa, pedidos em tempo real, comanda impressa para cozinha e bar e relatórios.
 `React Native` · `Expo` · `Firebase` · [Ver projeto](https://github.com/1kaiki/Sistema-Gestao-Restaurante)
 
 ### Contato
